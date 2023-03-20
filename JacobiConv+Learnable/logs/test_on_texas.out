@@ -1,0 +1,13 @@
+args =  Namespace(dataset='texas', split='dense', repeat=10, test=True, optruns=50, path='results', name='exp2_on_texas.out', detach=False, savemodel=False, power=False, cheby=False, legendre=False, bern=False, sole=False, fixalpha=False, multilayer=False, resmultilayer=False, learnable_bases=True, wd4=0.0001, lr4=0.001)
+repeat  0
+repeat  1
+repeat  2
+repeat  3
+repeat  4
+repeat  5
+repeat  6
+repeat  7
+repeat  8
+repeat  9
+avg 0.9344 error 0.0164
+0.9344262295081969

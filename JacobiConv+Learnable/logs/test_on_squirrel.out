@@ -1,0 +1,13 @@
+args =  Namespace(dataset='squirrel', split='dense', repeat=10, test=True, optruns=50, path='results', name='exp4_on_squirrel.out', detach=False, savemodel=False, power=False, cheby=False, legendre=False, bern=False, sole=False, fixalpha=False, multilayer=False, resmultilayer=False, learnable_bases=True, wd4=0.0005, lr4=0.001)
+repeat  0
+repeat  1
+repeat  2
+repeat  3
+repeat  4
+repeat  5
+repeat  6
+repeat  7
+repeat  8
+repeat  9
+avg 0.5615 error 0.0099
+0.5614793467819403

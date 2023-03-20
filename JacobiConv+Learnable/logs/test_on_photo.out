@@ -1,0 +1,13 @@
+args =  Namespace(bern=False, cheby=False, dataset='photo', detach=False, fixalpha=False, learnable_bases=True, legendre=False, lr4=0.01, multilayer=False, name='exp7_on_photo.out', optruns=50, path='results', power=False, repeat=10, resmultilayer=False, savemodel=False, sole=False, split='dense', test=True, wd4=0.001)
+repeat  0
+repeat  1
+repeat  2
+repeat  3
+repeat  4
+repeat  5
+repeat  6
+repeat  7
+repeat  8
+repeat  9
+avg 0.9540 error 0.0030
+0.953997975708502

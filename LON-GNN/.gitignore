@@ -1,0 +1,8 @@
+__pycache__/
+param_search/
+param_search/*
+test_run.sh
+
+/data/*/processed/
+# !/data/chameleon/
+!/data/*/raw/
